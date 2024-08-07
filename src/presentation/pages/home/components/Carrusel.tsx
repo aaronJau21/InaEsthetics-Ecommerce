@@ -9,15 +9,15 @@ export const Carrusel = () => {
     <p className="absolute top-52 left-[33rem] text-7xl font-bold text-white font-poppins">
       Day!
     </p>
-    <p className="absolute top-72 left-[26rem] text-white text-xl font-poppins">
+    <p className="absolute top-[19rem] left-[26rem] text-white text-xl font-poppins leading-6">
       Ven a <span className="font-bold">Inaesthetics</span> y reserva <br /> junto a tu pareja y accede a <br /> grandes
       descuentos.
     </p>
 
     <button 
-      className="absolute top-[25rem] left-[26rem] text-white font-bold text-3xl font-poppins bg-orange-400 p-3 rounded-2xl"
+      className="absolute top-[25rem] left-[26rem] text-white font-bold textReservar font-poppins bg-[#FFB208] py-3 px-6 rounded-2xl"
     >
-      Reserva ahora
+      Reservar ahora
     </button>
   </div>
   )

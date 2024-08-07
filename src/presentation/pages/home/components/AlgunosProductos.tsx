@@ -5,7 +5,7 @@ export const AlgunosProductos = () => {
   return (
     <div className="py-20">
       <TtitleGeneral title1="Descubre" title2="Nuestros" title3="Productos" />
-      <div className="container mx-auto w-10/12 mt-16">
+      <div className="container mx-auto w-8/12 mt-16 ">
         <div className="grid grid-cols-3">
           <div className="flex flex-col items-center mb-9">
             <img
@@ -15,10 +15,10 @@ export const AlgunosProductos = () => {
               className="rounded-3xl shadow-lg shadow-gray-600"
             />
             <div className="mt-5 text-center font-poppins">
-              <p className=" text-sm text-gray-500">
+              <p className=" text-base text-gray-500">
                 Age absolu + Consulta
               </p>
-              <p className=" text-sm text-gray-500">
+              <p className=" text-base text-gray-500">
                 Virtual en medicina estética
               </p>
               <p className="text-lg font-semibold">S/ 216.00</p>
@@ -33,10 +33,10 @@ export const AlgunosProductos = () => {
               className="rounded-3xl shadow-lg shadow-gray-600"
             />
             <div className="mt-5 text-center font-poppins">
-              <p className=" text-sm text-gray-500">
+              <p className=" text-base text-gray-500">
                 Age absolu + Consulta
               </p>
-              <p className=" text-sm text-gray-500">
+              <p className=" text-base text-gray-500">
                 Virtual en medicina estética
               </p>
               <p className="text-lg font-semibold">S/ 216.00</p>
@@ -51,10 +51,10 @@ export const AlgunosProductos = () => {
               className="rounded-3xl shadow-lg shadow-gray-600"
             />
             <div className="mt-5 text-center font-poppins">
-              <p className=" text-sm text-gray-500">
+              <p className=" text-base text-gray-500">
                 Age absolu + Consulta
               </p>
-              <p className=" text-sm text-gray-500">
+              <p className=" text-base text-gray-500">
                 Virtual en medicina estética
               </p>
               <p className="text-lg font-semibold">S/ 216.00</p>
@@ -69,10 +69,10 @@ export const AlgunosProductos = () => {
               className="rounded-3xl shadow-lg shadow-gray-600"
             />
             <div className="mt-5 text-center font-poppins">
-              <p className=" text-sm text-gray-500">
+              <p className=" text-base text-gray-500">
                 Age absolu + Consulta
               </p>
-              <p className=" text-sm text-gray-500">
+              <p className=" text-base text-gray-500">
                 Virtual en medicina estética
               </p>
               <p className="text-lg font-semibold">S/ 216.00</p>
@@ -87,10 +87,10 @@ export const AlgunosProductos = () => {
               className="rounded-3xl shadow-lg shadow-gray-600"
             />
             <div className="mt-5 text-center font-poppins">
-              <p className=" text-sm text-gray-500">
+              <p className=" text-base text-gray-500">
                 Age absolu + Consulta
               </p>
-              <p className=" text-sm text-gray-500">
+              <p className=" text-base text-gray-500">
                 Virtual en medicina estética
               </p>
               <p className="text-lg font-semibold">S/ 216.00</p>
@@ -105,10 +105,10 @@ export const AlgunosProductos = () => {
               className="rounded-3xl shadow-lg shadow-gray-600"
             />
             <div className="mt-5 text-center font-poppins">
-              <p className=" text-sm text-gray-500">
+              <p className=" text-base text-gray-500">
                 Age absolu + Consulta
               </p>
-              <p className=" text-sm text-gray-500">
+              <p className=" text-base text-gray-500">
                 Virtual en medicina estética
               </p>
               <p className="text-lg font-semibold">S/ 216.00</p>

@@ -15,3 +15,36 @@
   background-size: cover; /* Esto asegura que la imagen cubra completamente el elemento */
   background-position: center; /* Esto centra la imagen */
 }
+
+.textReservar {
+  font-size: 1.3rem;
+  line-height: 1.75rem;
+}
+
+.textNosotros {
+  font-size: 2.5rem;
+  line-height: 2.5rem;
+}
+
+/* .rounded-bl-3xl{
+  border-bottom-left-radius: 5rem;
+} */
+
+.rounded-b-3xl{
+  border-bottom-right-radius: 5.4rem;
+  border-bottom-left-radius: 5.4rem ;
+}
+
+.rounded-tr-3xlServices{
+  border-top-right-radius: 3rem;
+}
+
+.rounded-bl-3xlServices{
+  border-bottom-left-radius: 3rem;
+}
+
+.shadow-2xl-services {
+  --tw-shadow: 0px 25px 50px -12px rgb(0 0 0 / 0.25);
+  --tw-shadow-colored: 0px 25px 50px -12px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
