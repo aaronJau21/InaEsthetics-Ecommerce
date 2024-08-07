@@ -1,14 +1,11 @@
+import { TtitleGeneral } from '../../../components/TtitleGeneral';
 import TratamientoFaciales from "/img/tratamientoFaciales.jpg";
 
 export const AlgunosServicios = () => {
   return (
     <div className="py-20">
-      <h2 className="font-brittany text-center text-7xl text-gray-500">
-        Descubre <br />
-        <span className="font-poppins text-4xl pl-36 text-orange-400">
-          Nuestros <span className="font-semibold">Servicios</span>
-        </span>
-      </h2>
+     
+      <TtitleGeneral title1="Descubre" title2="Nuestros" title3="Servicios"/>
 
       <div className="flex justify-center mt-9">
         <div className="w-96">
