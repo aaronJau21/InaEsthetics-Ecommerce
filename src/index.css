@@ -1,10 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @font-face {
-  font-family: 'Brittany';
-  src: url('/fonts/BRITTANYSIGNATURE.TTF') format('truetype');
+  font-family: "Brittany";
+  src: url("/fonts/BRITTANYSIGNATURE.TTF") format("truetype");
+}
+
+.fondoDudas {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url("/public/img/fondoDudas.png");
+  background-size: cover; /* Esto asegura que la imagen cubra completamente el elemento */
+  background-position: center; /* Esto centra la imagen */
 }

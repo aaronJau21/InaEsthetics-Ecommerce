@@ -10,7 +10,7 @@ import { rutas } from "./data/rutas";
 import { NavLink } from "react-router-dom";
 
 export const HeaderComponent = () => {
-  const copie = () => toast.success("Wow so easy!");
+  const copie = () => toast.success("Se copio correctamente");
 
   return (
     <>
