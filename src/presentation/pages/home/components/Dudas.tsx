@@ -9,7 +9,7 @@ export const Dudas = () => {
         </p>
       </div>
       <div className="ml-16">
-        <button className="bg-[#ffb208] text-3xl font-semibold py-3 px-5 rounded-2xl">Contactar Asesor</button>
+        <button className="bg-primary text-3xl font-semibold py-3 px-5 rounded-2xl">Contactar Asesor</button>
       </div>
     </div>
   );

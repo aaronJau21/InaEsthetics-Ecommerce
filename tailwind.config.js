@@ -9,6 +9,9 @@ export default {
       fontFamily: {
         poppins: [ 'Poppins', 'sans-serif' ],
         brittany: [ 'Brittany', 'sans-serif' ]
+      },
+      colors: {
+        primary: "#ffb208"
       }
     },
   },

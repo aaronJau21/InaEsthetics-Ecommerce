@@ -10,22 +10,22 @@ export const AlgunosServicios = () => {
         <div className="flex-1">
           <div className=" ml-72 border w-96 border-white rounded-tr-3xlServices rounded-bl-3xlServices shadow-2xl-services shadow-gray-400 h-[33rem] pt-7">
             <div className="flex flex-col items-center">
-              <h4 className="py-9 font-poppins text-[#FFB208] font-bold ">
+              <h4 className="py-9 font-poppins text-primary font-bold ">
                 Tratamientos Faciales
               </h4>
-              <div className="border-t border-[#ffb208] w-80 p-1"></div>
+              <div className="border-t border-primary w-80 p-1"></div>
               <h4 className="py-9 font-poppins text-gray-500">
                 Tratamientos Faciales
               </h4>
-              <div className="border-t border-[#ffb208] w-80 p-1"></div>
+              <div className="border-t border-primary w-80 p-1"></div>
               <h4 className="py-9 font-poppins text-gray-500">
                 Tratamientos Faciales
               </h4>
-              <div className="border-t border-[#ffb208] w-80 p-1"></div>
+              <div className="border-t border-primary w-80 p-1"></div>
               <h4 className="py-9 font-poppins text-gray-500">
                 Tratamientos Faciales
               </h4>
-              <div className="border-t border-[#ffb208] w-80 p-1"></div>
+              <div className="border-t border-primary w-80 p-1"></div>
             </div>
           </div>
         </div>
@@ -33,7 +33,7 @@ export const AlgunosServicios = () => {
           <div>
             <img src={TratamientoFaciales} alt="" width="500" />
             <div className="py-5">
-              <h3 className="font-poppins text-xl text-[#FFB208] font-semibold">
+              <h3 className="font-poppins text-xl text-primary font-semibold">
                 Tratamientos Faciales
               </h3>
             </div>

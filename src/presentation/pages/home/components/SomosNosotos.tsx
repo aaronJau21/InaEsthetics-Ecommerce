@@ -15,7 +15,7 @@ export const SomosNosotos = () => {
 
       <div className="bg-white w-[40rem] px-16 py-20 rounded-b-3xl font-poppins">
         <div className="pb-9">
-          <h3 className="text-[#FFB208] font-bold font-poppins textNosotros">
+          <h3 className="text-primary font-bold font-poppins textNosotros">
             Somos Inaesthetics
           </h3>
         </div>

@@ -15,7 +15,7 @@ export const Carrusel = () => {
     </p>
 
     <button 
-      className="absolute top-[25rem] left-[26rem] text-white font-bold textReservar font-poppins bg-[#FFB208] py-3 px-6 rounded-2xl"
+      className="absolute top-[25rem] left-[26rem] text-white font-bold textReservar font-poppins bg-primary py-3 px-6 rounded-2xl"
     >
       Reservar ahora
     </button>
