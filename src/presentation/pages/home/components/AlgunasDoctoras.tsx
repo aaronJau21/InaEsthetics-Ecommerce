@@ -10,7 +10,7 @@ export const AlgunasDoctoras = () => {
         title3="Profesionales"
       />
 
-      <div className=" container mx-auto w-8/12">
+      <div className=" container mt-20 mx-auto w-8/12">
         <div className="flex justify-around font-poppins">
           <div className="text-center">
             <img

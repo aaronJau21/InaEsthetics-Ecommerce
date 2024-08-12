@@ -3,7 +3,7 @@ import TratamientoFaciales from "/img/tratamientoFaciales.jpg";
 
 export const AlgunosServicios = () => {
   return (
-    <div className="py-20 container mx-auto">
+    <div className="py-20 ">
       <TtitleGeneral title1="Descubre" title2="Nuestros" title3="Servicios" />
 
       <div className="flex justify-center container mx-auto mt-20">
